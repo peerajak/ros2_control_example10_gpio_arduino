@@ -2,6 +2,10 @@
 
    *RRBot* - or ''Revolute-Revolute Manipulator Robot'' - with GPIO interfaces, using arduino to move motor with ros2_control demo example 10
    
+ Using Flysky receiver as an input GPIO, and using ros2 pub to move motor as output GPIO.
+ 
+ Note. This project still is not very good. because I found blocking operation created by arduino_.read().
+   
 Terminal 1
 
 ```
