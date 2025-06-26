@@ -19,4 +19,4 @@ ros2 topic pub /gpio_controller/commands control_msgs/msg/DynamicInterfaceGroupV
 
 Electronic circuits
 
-
+![alt text](161048.jpg)
