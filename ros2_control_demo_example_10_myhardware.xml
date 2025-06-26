@@ -1,0 +1,9 @@
+<library path="ros2_control_demo_example_10_myhardware">
+  <class name="ros2_control_demo_example_10_myhardware/RRBotSystemWithGPIOHardware"
+         type="ros2_control_demo_example_10_myhardware::RRBotSystemWithGPIOHardware"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      The ros2_control RRbot example with GPIO interfaces.
+    </description>
+  </class>
+</library>
